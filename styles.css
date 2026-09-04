@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.titulo {
+    color: blue;
+    font-size: 4rem;
+    margin-top: 20px;
+}
